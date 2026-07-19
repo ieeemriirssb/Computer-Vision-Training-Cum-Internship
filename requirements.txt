@@ -1,0 +1,5 @@
+ultralytics>=8.2.0
+opencv-python>=4.9.0
+plyer>=2.1.0
+playsound==1.2.2
+numpy>=1.26.0
